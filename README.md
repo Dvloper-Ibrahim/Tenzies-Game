@@ -8,7 +8,7 @@ Roll until all dice are the same. Click each die to freeze it at its current val
 
 ## Some extra features that I added
 
-First, the project required some logic, and I added some features that were challenging for me such as :
+In the beginning, the project required some logic, after finishing them I added some features that were challenging for me such as :
 
 1. Replacing the numbers with real dots ( CSS challenge ).
 2. Tracking the time spent finishing the game.
