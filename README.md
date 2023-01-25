@@ -8,15 +8,15 @@ Roll until all dice are the same. Click each die to freeze it at its current val
 
 ## Some extra features that I added
 
-First, the project required some logic, and I added some features that were challenging for me :
+First, the project required some logic, and I added some features that were challenging for me such as :
 
-1. Replace the numbers with real dots ( CSS challenge ).
-2. Track the time spent finishing the game.
-3. Record the time in the localStorage window object.
-4. Add a phrase indicating that you finished the game.
-5. Add a phrase indicating if you broke a new record.
-6. Add a button to delete your record if you want to challenge yourself from the beginning.
-7. Create a custom hock that holds all of your logic outside the component or the app.
+1. Replacing the numbers with real dots ( CSS challenge ).
+2. Tracking the time spent finishing the game.
+3. Recording the time in the localStorage window object.
+4. Adding a phrase indicating that you finished the game.
+5. Adding a phrase indicating if you broke a new record.
+6. Adding a button that you click to delete your record if you want to challenge yourself from the beginning.
+7. Creating a custom hock that holds all of your logic outside the component or the app.
 
 The project design is responsive, so enjoy interacting with it on whatever device you use.
 
