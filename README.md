@@ -59,6 +59,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+### `npm run predeploy`
+
+It's involved in the next script to build the project before depoying it on github pages.
+
 ### `npm run deploy`
 
 To depoy the project on github pages using a package called `gh-pages` that can be installed through node package manager by running `npm i --save-dev gh-pages` in terminal.
